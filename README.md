@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tran Minh Dat</h1>
-<h3 align="center">A fresher frontend developer in HCM city</h3>
+<h3 align="center">An undergraduated fresher frontend developer in HCM city</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trmdat" alt="trmdat" /></a> </p>
 
-- 🔭 I’m currently working on **VMA-PF**
-
-- 🌱 I’m currently learning **ReactJS, NextJS, Flutter**
+- 🌱 I’m currently studying at **FPT University**
 
 - 📫 How to reach me **tranminhdat0805@gmail.com**
 
